@@ -274,7 +274,7 @@ class Home extends Component {
             </button>
             <h4 className="mt-3 offer-message">
               Special Offer: First 100 users get 50% fee reduction. *Offer valid
-              till July.
+              till 15th August.
             </h4>
             <h3 className="mt-4"> Don't Miss Out! Start Earning Today!</h3>
             <p className="mb-0" style={{ fontSize: "10px" }}>
